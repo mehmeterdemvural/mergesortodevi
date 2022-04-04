@@ -1,0 +1,2 @@
+# mergesortodevi
+merge sort ödevi
